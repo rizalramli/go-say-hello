@@ -11,3 +11,5 @@ func SayHello(name string) string {
 // Jika terjadi major upgrade
 // 1. misal function ada tambahan porameter
 // 2. Ubah nama module di akhir menjadi /v2
+// 3. git tag v2.0.0
+// 4. git push origin v2.0.0
